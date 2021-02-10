@@ -1,5 +1,18 @@
 # Make from URL template
- 
+
+This is a very dumb template that simply exposes a full-sized iframe url as a data object. 
+
+To use in Make.cm simply import this template and use the following in your API request:
+
+`
+"data":{
+  "url": "https://your-url-here"
+  }
+`
+
+There's so much more you can do with Make if you put your dynamic logic inside a template so consider this for testing only and use https://github.com/makecm/hello-world-react-template for a proper look at what's possible.
+
+
 ## Development server
 
 Install all necessary dependencies `yarn install`
