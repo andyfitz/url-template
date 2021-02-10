@@ -1,6 +1,7 @@
 # Make from URL template
 
-This is a very dumb template that simply exposes a full-sized iframe url as a data object. 
+This is a very dumb template that simply exposes a full-sized iframe url as a data object.  
+The URL must be public and not have iframe detection/rejection. 
 
 To use in Make.cm simply import this template and use the following in your API request:
 
