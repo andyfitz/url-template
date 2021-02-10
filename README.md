@@ -14,9 +14,11 @@ To use in Make.cm simply import this template and use the following in your API 
 There's so much more you can do with Make if you put your dynamic logic inside a template so consider this for testing only and use https://github.com/makecm/hello-world-react-template for a proper look at what's possible.
 
 
-## Development server
+## How to edit this template
 
-Install all necessary dependencies `yarn install`
+1. Fork this repository
+
+2. Install all necessary dependencies `yarn install`
 
 Run `yarn start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
